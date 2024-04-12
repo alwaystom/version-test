@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/alwaystom/version-test/compare/v1.1.0...v1.1.1) (2024-04-12)
+
+
+### Bug Fixes
+
+* some e9ca02d
+
 # [1.1.0](https://github.com/alwaystom/version-test/compare/v1.0.0...v1.1.0) (2024-04-12)
 
 
