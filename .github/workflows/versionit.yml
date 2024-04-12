@@ -35,7 +35,7 @@ jobs:
         with:
           node-version: "lts/*"
       - name: install semantic-release
-        run: npm i -g semantic-release && npm i -g @semantic-release/changelog
+        run: npm i -g semantic-release @semantic-release/changelog
       - name: semantic-release
         env: 
           GH_TOKEN: ${{secrets.SECRET_KEY}}
