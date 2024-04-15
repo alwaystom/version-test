@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/alwaystom/version-test/compare/v1.3.0...v1.4.0) (2024-04-15)
+
+
+### Features
+
+* update workflow c3ca9b8
+
 # [1.3.0](https://github.com/alwaystom/version-test/compare/v1.2.0...v1.3.0) (2024-04-15)
 
 
