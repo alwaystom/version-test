@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/alwaystom/version-test/compare/v1.2.0...v1.3.0) (2024-04-15)
+
+
+### Features
+
+* update config 711f091
+
 # [1.2.0](https://github.com/alwaystom/version-test/compare/v1.1.1...v1.2.0) (2024-04-15)
 
 
