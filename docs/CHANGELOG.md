@@ -1,3 +1,15 @@
+# [1.6.0-test.1](https://github.com/alwaystom/version-test/compare/v1.5.0...v1.6.0-test.1) (2024-04-22)
+
+
+### Bug Fixes
+
+* i fix the project name 207316d
+
+
+### Features
+
+* i add a feature 6f0ea1f
+
 # [1.5.0](https://github.com/alwaystom/version-test/compare/v1.4.0...v1.5.0) (2024-04-15)
 
 
