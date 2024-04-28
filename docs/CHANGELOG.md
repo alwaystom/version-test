@@ -1,3 +1,10 @@
+# [1.6.0-test.2](https://github.com/alwaystom/version-test/compare/v1.6.0-test.1...v1.6.0-test.2) (2024-04-28)
+
+
+### Bug Fixes
+
+* fix a bug d593f77
+
 # [1.6.0-test.1](https://github.com/alwaystom/version-test/compare/v1.5.0...v1.6.0-test.1) (2024-04-22)
 
 
