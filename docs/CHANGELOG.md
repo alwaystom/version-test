@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/alwaystom/version-test/compare/v1.5.0...v1.6.0) (2024-04-28)
+
+
+### Features
+
+* add new branch policy 20f0f6b
+
 # [1.5.0](https://github.com/alwaystom/version-test/compare/v1.4.0...v1.5.0) (2024-04-15)
 
 
