@@ -2,10 +2,10 @@
   "branches": [
     "master",
     "main",
-    {"name":"special/main", "channel": "special"},
+    {"name":"special/main", "channel": "special/"},
     {name: 'test', prerelease: true}
   ],
-  "tagFormat": "v${version}",
+  "tagFormat": "${channel}v${version}",
   "plugins": [
     "@semantic-release/commit-analyzer",
     [
