@@ -1,7 +1,7 @@
 {
   "branches": [
     "master",
-    {"name": "main", "channel": "main""},
+    {"name": "main", "channel": "main"},
     {"name":"special/main", "channel": "special"},
     {name: 'test', prerelease: true}
   ],
