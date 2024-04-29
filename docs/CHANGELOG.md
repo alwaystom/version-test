@@ -5,6 +5,15 @@
 
 * add new release policy 44d32bc
 * add new release policy 1a974e6
+* add special property 8d9489f
+
+# [1.7.0](https://github.com/alwaystom/version-test/compare/v1.6.0...v1.7.0) (2024-04-29)
+
+
+### Features
+
+* add new release policy 44d32bc
+* add new release policy 1a974e6
 
 # [1.6.0](https://github.com/alwaystom/version-test/compare/v1.5.0...v1.6.0) (2024-04-28)
 
