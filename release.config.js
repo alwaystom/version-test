@@ -1,5 +1,6 @@
+console.log(process);
 if(process.branch.channel){
-    console.log(process);
+
     var channel = process.branch.channel;
     if (channel){
         var tagFormat = "v${version}" + "-" + channel;
