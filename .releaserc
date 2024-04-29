@@ -5,7 +5,7 @@
     {"name":"special/main", "channel": "special/"},
     {name: 'test', prerelease: true}
   ],
-  "tagFormat": "${name}v${version}",
+  "tagFormat": "v${version}-${channel}",
   "plugins": [
     "@semantic-release/commit-analyzer",
     [
