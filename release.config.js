@@ -1,9 +1,10 @@
-if(process.env.channel){
-    var channel = process.env.channel;
+if(process.branch.channel){
+    console.log(process);
+    var channel = process.branch.channel;
     if (channel){
-        var versionMeta = "-" + channel;
+        var tagFormat = "v${version}" + "-" + channel;
     }else{
-        var versionMeta = "";
+        var tagFormat = "v${version}";
     }
 }
 
@@ -16,7 +17,7 @@ module.exports = {
         {name: 'special/main', channel: 'special'},
         {name: 'test', prerelease: true}
     ],
-    tagFormat: "v${version}" + versionMeta,
+    tagFormat: tagFormat,
     plugins: [
         "@semantic-release/commit-analyzer",
         [
