@@ -1,4 +1,6 @@
-console.log(process);
+console.log(branch);
+console.log(env);
+console.log(envci)
 if(process.branch.channel){
 
     var channel = process.branch.channel;
