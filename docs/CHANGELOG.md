@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/alwaystom/version-test/compare/v1.7.1...v1.8.0) (2024-04-30)
+
+
+### Features
+
+* add branch policy ad7a06f
+
 ## [1.7.1](https://github.com/alwaystom/version-test/compare/v1.7.0...v1.7.1) (2024-04-30)
 
 
