@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/alwaystom/version-test/compare/v1.0.0-special...v1.0.1-special) (2024-04-30)
+
+
+### Bug Fixes
+
+* change package.json in special 6aabef6
+
 # 1.0.0 (2024-04-30)
 
 
