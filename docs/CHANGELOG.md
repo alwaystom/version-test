@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/alwaystom/version-test/compare/special2-v1.8.0...special2-v1.9.0) (2024-04-30)
+
+
+### Features
+
+* add 2 786bde0
+
 # [1.8.0](https://github.com/alwaystom/version-test/compare/v1.7.1...v1.8.0) (2024-04-30)
 
 
