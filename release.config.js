@@ -1,22 +1,17 @@
-console.log(process.env);
-console.log(process.envci);
-if(process.envci.branch.channel){
+const { execSync } = require('child_process');
+const branch = execSync('git rev-parse --abbrev-ref HEAD').toString().trim();
+const prefix = branch.toString().trim().split('/')[0]
+let tagFormat = "v${version}";
 
-    var channel = process.branch.channel;
-    if (channel){
-        var tagFormat = "v${version}" + "-" + channel;
-    }else{
-        var tagFormat = "v${version}";
-    }
+if(prefix !== branch){
+    tagFormat = tagFormat + "-" + prefix;
 }
-
-
 
 module.exports = {
     branches : [
         "master",
         "main",
-        {name: 'special/main', channel: 'special'},
+        'special/main',
         {name: 'test', prerelease: true}
     ],
     tagFormat: tagFormat,
