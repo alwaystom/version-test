@@ -13,7 +13,7 @@ module.exports = {
         "main",
         "*/main",
         {name: 'test', prerelease: true},
-        {name: '*/test', prerelease: "test"}
+        {name: '*/test', prerelease: prefix + "test"}
     ],
     tagFormat: tagFormat,
     plugins: [
