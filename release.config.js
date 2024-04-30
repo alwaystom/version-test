@@ -11,8 +11,9 @@ module.exports = {
     branches : [
         "master",
         "main",
-        'special/main',
-        {name: 'test', prerelease: true}
+        '*/main',
+        {name: 'test', prerelease: true},
+        {name: '*/test', prerelease: true}
     ],
     tagFormat: tagFormat,
     plugins: [
