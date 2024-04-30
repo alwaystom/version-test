@@ -1,11 +1,11 @@
 {
   "branches": [
     "master",
-    "main",
-    {"name":"special/main", "channel": "special"},
+    {name: 'main', channel: 'main'},
+    {name: 'special/main', channel: 'special'},
     {name: 'test', prerelease: true}
   ],
-  "tagFormat": "v${version}",
+  "tagFormat": "v${version}-${channel}",
   "plugins": [
     "@semantic-release/commit-analyzer",
     [

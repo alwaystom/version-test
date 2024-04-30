@@ -1,11 +1,43 @@
-# [1.7.0](https://github.com/alwaystom/version-test/compare/v1.6.0...v1.7.0) (2024-04-29)
+# 1.0.0 (2024-04-29)
+
+
+### Bug Fixes
+
+* change tag format 5099fb0
+* change tag format a55ca9a
+* change tag format e882d6c
+* change tag format 0182433
+* change tag format 2b54ce1
+* change tag format a3f728b
+* change tag format 8cef363
+* change tag format 50e37da
+* change tag format ee1d3ec
+* change tag format 6a1f088
+* some e9ca02d
+* Update versionit.yml a138172
+* Update versionit.yml bf3aceb
 
 
 ### Features
 
+* add new branch policy 20f0f6b
 * add new release policy 44d32bc
 * add new release policy 1a974e6
-* add special property 8d9489f
+* add package.json 6974cce
+* changelog 4e49f41
+* Create .releaserc 21a5dcd
+* i update in test 67fd5c1
+* Update .releaserc c86acdf
+* Update .releaserc 8771fb2
+* Update .releaserc 5819950
+* Update .releaserc e02ac44
+* update config 711f091
+* update versionit 01424b2
+* Update versionit.yml e4c375e
+* Update versionit.yml 7c8d9b1
+* Update versionit.yml 3a16df3
+* Update versionit.yml 950b804
+* update workflow c3ca9b8
 
 # [1.7.0](https://github.com/alwaystom/version-test/compare/v1.6.0...v1.7.0) (2024-04-29)
 
