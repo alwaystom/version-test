@@ -1,3 +1,24 @@
+## [1.7.1](https://github.com/alwaystom/version-test/compare/v1.7.0...v1.7.1) (2024-04-30)
+
+
+### Bug Fixes
+
+* change tag format f35d075
+* change tag format bebf5f0
+* change tag format efde0a8
+* change tag format 68e467d
+* change tag format e5760a3
+* change tag format 5099fb0
+* change tag format a55ca9a
+* change tag format e882d6c
+* change tag format 0182433
+* change tag format 2b54ce1
+* change tag format a3f728b
+* change tag format 8cef363
+* change tag format 50e37da
+* change tag format ee1d3ec
+* change tag format 6a1f088
+
 # 1.0.0 (2024-04-29)
 
 
