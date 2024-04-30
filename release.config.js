@@ -11,7 +11,7 @@ module.exports = {
     branches : [
         "master",
         "main",
-        '*/main',
+        { name: '*/main', prerelease: false},
         {name: 'test', prerelease: true},
         {name: '*/test', prerelease: true}
     ],
