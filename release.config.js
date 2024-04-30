@@ -4,7 +4,7 @@ const prefix = branch.toString().trim().split('/')[0]
 let tagFormat = "v${version}";
 
 if(prefix !== branch){
-    tagFormat = tagFormat + "-" + prefix;
+    tagFormat = prefix + "-" + tagFormat;
 }
 
 module.exports = {
